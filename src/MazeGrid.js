@@ -108,7 +108,7 @@ export default function MazeGrid({width = 20, height = 20}) {
         return;
       }
 
-      const [x, y] = stack.pop();//Removes first element of queue array and stores it 
+      const [x, y] = stack.pop();//Removes last element of queue array and stores it 
       console.log("New Step")
       const dirs = [
         [0, 1],

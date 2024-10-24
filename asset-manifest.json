@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pathfinding-algorithm-visualizer/static/css/main.d3c65f5c.css",
+    "main.js": "/pathfinding-algorithm-visualizer/static/js/main.3ffd8262.js",
+    "index.html": "/pathfinding-algorithm-visualizer/index.html",
+    "main.d3c65f5c.css.map": "/pathfinding-algorithm-visualizer/static/css/main.d3c65f5c.css.map",
+    "main.3ffd8262.js.map": "/pathfinding-algorithm-visualizer/static/js/main.3ffd8262.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c65f5c.css",
+    "static/js/main.3ffd8262.js"
+  ]
+}
